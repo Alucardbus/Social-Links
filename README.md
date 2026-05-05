@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/milocain/social-links)
-- Live Site URL: [Live site](https://social-links-tau-six.vercel.app/)
+- Solution URL: [Solution](https://github.com/Alucardbus/Social-Links)
+- Live Site URL: [Live site](https://voluble-eclair-872378.netlify.app/)
 
 ### Built with
 
